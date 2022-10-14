@@ -1,0 +1,19 @@
+body {
+  background-color: #924eac;
+}
+
+div {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin-top: 20px;
+  color: #fff;
+}
+
+.width-high {
+  background-color: #eebc12;
+}
+
+.width-low {
+  background-color: teal;
+}
